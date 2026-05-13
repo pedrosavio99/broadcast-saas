@@ -1,0 +1,7 @@
+cd web
+npm run build
+cd ..
+firebase deploy --only hosting
+
+
+roda entra no web e roda o npm run dev
